@@ -1,0 +1,17 @@
+{
+	id: "79a73e73-8cef-3fb9-b0b2-6a6bd2ee5af1"
+	type: "player"
+	player_name: "deividtak"
+	ranks: {
+		79a73e73-8cef-3fb9-b0b2-6a6bd2ee5af1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "deividtak"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
